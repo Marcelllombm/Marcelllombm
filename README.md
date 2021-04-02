@@ -24,15 +24,19 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 <a href="https://www.youtube.com/channel/UCAWkjroR35AItjrmjqJbYig" target="_blank" >
    <img align="" alt="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"  />
 </a>
+</br></br>
+
 
 <p align="left">
-<img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=merko" /> 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=merko"/>
+<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=merko" /> 
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=merko"/>
 </p></br>
 
 ### Praticas
 
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=project&theme=merko)](https://github.com/marcelllombm/project)
 
+                                                                    
+### minhas habilidades
 
 
