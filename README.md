@@ -28,8 +28,8 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 
 
 <p align="left">
-<img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=merko" /> 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=merko"/>
+<img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=merko" /> 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=merko"/>
 </p></br>
 
 ### Praticas
