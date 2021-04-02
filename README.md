@@ -26,4 +26,6 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 </a>
                                                                     
 ### minhas habilidades
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact)](https://github.com/marcelllombm/github-readme-stats)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=radical"/>
+
