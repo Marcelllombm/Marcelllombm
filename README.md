@@ -5,7 +5,7 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 
 ### Vamos. socializar
 <a href="https://www.linkedin.com/in/marcelllombm/" target="_blank" >
-  <img align="" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  />
+  <img align="" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"  />
 </a>
 
 ### minhas habilidades
