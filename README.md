@@ -6,7 +6,7 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 ### Vamos, socializar!
 
 
-<a href="https://www.facebook.com/Borgesmbm/" target="_blank" >
+<a href="https://www.linkedin.com/in/marcelllombm/" target="_blank" >
    <img align="" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"  />
 </a>
 <a href="https://www.instagram.com/marcelllombm/" target="_blank" >
@@ -15,8 +15,8 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 <a href="https://www.facebook.com/Borgesmbm/" target="_blank" >
    <img align="" height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/facebook-icon-1.svg"  />
 </a>
-<a href="https://www.facebook.com/Borgesmbm/" target="_blank" >
-   <img align="" height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/facebook-icon-1.svg"  />
+<a href="https://www.agrestedesign.com.br/ad/category/blog/" target="_blank" >
+   <img align="" height="40" width="40"  src="https://www.svgrepo.com/show/10382/blogger.svg"  />
 </a>
 <a href="https://www.facebook.com/Borgesmbm/" target="_blank" >
    <img align="" height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/facebook-icon-1.svg"  />
