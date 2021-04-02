@@ -13,7 +13,7 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
    <img align="" height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"  />
 </a>
 <a href="https://www.facebook.com/Borgesmbm/" target="_blank" >
-   <img align="" height="40" width="40"  src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg"  />
+   <img align="" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"  />
 </a>
 <a href="https://www.agrestedesign.com.br/ad/category/blog/" target="_blank" >
    <img align="" height="40" width="40"  src="https://www.svgrepo.com/show/25163/blogger.svg"  />
