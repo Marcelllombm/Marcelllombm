@@ -37,6 +37,6 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=project&theme=merko)](https://github.com/marcelllombm/project)
 
                                                                     
-### minhas habilidades
+### Minhas habilidades
 
 
