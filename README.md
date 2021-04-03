@@ -38,11 +38,12 @@ Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
 
                                                                    
 ### Minhas habilidades
-<div align="right" >
-   
-<img alt="mascote" height="380" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617426276898.png">
 
-<p align="right"  style="width="100""> 
+
+<img align="right" alt="mascote" height="380" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617426276898.png">
+
+<p align="left"  width="100"> 
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img alt="hooks" height="28" src="https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black" /> <img alt="Jest" height="28" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />  <img alt="RTL" height="28" src="https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
-</div>
+ 
+
