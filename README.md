@@ -2,7 +2,7 @@
 
 Meu nome é Marcelo Borges, sou de Arapiraca do estado de Alagoas.</br>
 Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tryber e espero terminar a formação full stack.</br>
-Gosto de fazer amizades :thumbsup: e sou apaixonado por tecnologias.:punch:</br>
+Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
 
 ### Então vamos juntos, socializar!
 
