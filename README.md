@@ -22,7 +22,7 @@ Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
    <img align="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/outlook-icon.svg"  />
 </a>
 <a href="https://www.youtube.com/channel/UCAWkjroR35AItjrmjqJbYig" target="_blank" >
-   <img align="" alt="" height="30" width="30"  src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617429210727.png"  />
+   <img align="" alt="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"  />
 </a>
 </br></br>
 
