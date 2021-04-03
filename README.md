@@ -5,7 +5,6 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
 
 ### Vamos, socializar!
 
-
 <a href="https://www.linkedin.com/in/marcelllombm/" target="_blank" >
    <img align="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
 </a>
@@ -25,7 +24,6 @@ Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tr
    <img align="" alt="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg"  />
 </a>
 </br></br>
-
 
 <p align="left">
 <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelllombm&layout=compact&theme=merko" /> 
