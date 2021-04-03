@@ -31,13 +31,13 @@ Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcelllombm&show_icons=true&theme=merko"/>
 </p>
 
-<hr/> 
+
 ### Na Prática
 
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=meusprojetos&theme=merko)](https://github.com/marcelllombm/meusprojetos)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=exercicios&theme=merko)](https://github.com/marcelllombm/exercicios)
 
-<hr/>                                                                
+                                                               
 ### Minhas habilidades
 
 
