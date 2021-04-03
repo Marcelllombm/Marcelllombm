@@ -40,7 +40,7 @@ Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
                                                                
 ### Minhas habilidades ### =====================================
 
-<img align="left" alt="mascote" height="280" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617426276898.png">
+<img align="left" alt="mascote" height="280" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617428841931.png">
 
 <p align="left" > 
    </br> </br> </br>
