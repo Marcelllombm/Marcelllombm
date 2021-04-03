@@ -32,13 +32,13 @@ Gosto de fazer amizades:thumbsup: e sou apaixonado por tecnologias.:punch:</br>
 </p>
 
 
-### Na Prática ### ======================================
+### Na Prática
 
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=meusprojetos&theme=merko)](https://github.com/marcelllombm/meusprojetos)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=marcelllombm&repo=exercicios&theme=merko)](https://github.com/marcelllombm/exercicios)
 
                                                                
-### Minhas habilidades ### ======================================
+### Minhas habilidades ### =====================================
 
 <img align="left" alt="mascote" height="280" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617426276898.png">
 
