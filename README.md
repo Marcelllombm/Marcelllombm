@@ -3,7 +3,7 @@
 Meu nome é Marcelo Borges, sou de Arapiraca, Alagoas, Brasil.</br>
 Já terminei o modulo de Front-end, e estou iniciando o modulo de Back-end na tryber.</br>
 
-### Vamos, socializar!
+### Vamos juntos, socializar!
 
 <a href="https://www.linkedin.com/in/marcelllombm/" target="_blank" >
    <img align="" height="30" width="30"  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
